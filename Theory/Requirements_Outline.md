@@ -1,0 +1,8 @@
+Small Artist Showcase FR & NFR
+
+Functional Requirements
+The website will display a bunch of different small artists, information about them, and have a/multiple song/s for you to listen to on the website as a taster for their main music style. It is designed to promote the artists to new people and show new artists to people who would otherwise not know where to look for possible new listens. It will have links to the artist’s main platforms (usually spotify and youtube) for you to be able to get to their discographies easily and quickly. It will have a main page which displays the featured artist of the day/week/month (undecided) and a filter to select different genres to more easily find artists they enjoy. The user should be able to play one/a few songs as mp3 files on the website. 
+You will start on the home page and then either be able to click on the centered graphic for the artist of the day/week/month or go to an ‘explore’ esque tab where you can filter through genres and scroll through different artists until you see one that you would like. Once you have selected an artist, their page will have a brief description, their social media platforms (which you can click on and get sent to), and one song/ a few songs that you can listen to as mp3s.
+
+Non-Functional  Requirements
+The text will be in an easy to read format and will keep similar structure throughout the webpages, so as to keep it simple and easily navigable, even for new users. There will be testing done across all the platforms that it will be available on to ensure there isn’t any bad bugs or glitches with the website.

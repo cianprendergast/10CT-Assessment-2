@@ -1,0 +1,40 @@
+html {
+    background-color: skyblue;
+}
+body {
+    background-color: powderblue;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(0, 17, 94);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+}
+
+nav ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+nav li {
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    font-size: large;
+}
+
+
+nav a {
+
+    color: #0044ff; 
+    text-decoration: none;
+
+}
